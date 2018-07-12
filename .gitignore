@@ -1,0 +1,11 @@
+CMakeFiles/
+build/
+*.pcd 
+*.ply 
+*.png 
+*.jpeg 
+*.jpg 
+*.so 
+*.a 
+*.out 
+
